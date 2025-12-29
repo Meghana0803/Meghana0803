@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Meghana 👋
 
-<!--
-**Meghana0803/Meghana0803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student passionate about Data Analysis, Machine Learning, and building real-world projects that solve problems.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python
+- SQL
+- Excel, Power BI
+- Data Analysis & Visualization
+- Machine Learning (beginner–intermediate)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- 📊 Sales Analysis using Excel, SQL & Power BI
+- 🤖 AI-Powered Image & Speech Recognition Web App
+- 🧬 Cancer Prediction using ML
+
+## 🌱 Currently Learning
+- Open-source contribution workflow
+- Advanced data analysis & ML projects
+- Git & GitHub best practices
+
+## 🎯 Goals
+- Become a freelance Data Analyst
+- Contribute to open-source projects
+- Apply as a contributor for programs like GSoC
+
+📫 Connect with me:
+- GitHub: https://github.com/Meghana0803
+
